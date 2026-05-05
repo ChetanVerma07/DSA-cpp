@@ -1,4 +1,4 @@
-#include <iostream> // for std::cout (iostream)
+#include <iostream>
 
 int main()
 {
